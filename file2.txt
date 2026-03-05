@@ -1,3 +1,4 @@
 Good bye!!!
 123
 Some changes from User2
+Another change in file2 made by user2
